@@ -10,7 +10,7 @@ namespace CA201008
     {
         static void Main(string[] args)
         {
-            //vau
+            
         }
     }
 }
